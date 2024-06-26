@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\Cinema\demoLinQ\bin\Debug\demoLinQ.exe.config
+C:\Users\admin\source\repos\Cinema\demoLinQ\bin\Debug\demoLinQ.exe
+C:\Users\admin\source\repos\Cinema\demoLinQ\bin\Debug\demoLinQ.pdb
+C:\Users\admin\source\repos\Cinema\demoLinQ\obj\Debug\demoLinQ.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Cinema\demoLinQ\obj\Debug\demoLinQ.Form1.resources
+C:\Users\admin\source\repos\Cinema\demoLinQ\obj\Debug\demoLinQ.Properties.Resources.resources
+C:\Users\admin\source\repos\Cinema\demoLinQ\obj\Debug\demoLinQ.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Cinema\demoLinQ\obj\Debug\demoLinQ.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Cinema\demoLinQ\obj\Debug\demoLinQ.exe
+C:\Users\admin\source\repos\Cinema\demoLinQ\obj\Debug\demoLinQ.pdb

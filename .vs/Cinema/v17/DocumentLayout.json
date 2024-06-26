@@ -1,0 +1,1866 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\Cinema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6092F6E-77F0-4DC0-8F7C-D6D083A1C6C6}|BT\\BT.csproj|c:\\users\\admin\\source\\repos\\cinema\\bt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6092F6E-77F0-4DC0-8F7C-D6D083A1C6C6}|BT\\BT.csproj|solutionrelative:bt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6092F6E-77F0-4DC0-8F7C-D6D083A1C6C6}|BT\\BT.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\bt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6092F6E-77F0-4DC0-8F7C-D6D083A1C6C6}|BT\\BT.csproj|solutionrelative:bt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6092F6E-77F0-4DC0-8F7C-D6D083A1C6C6}|BT\\BT.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\bt\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6092F6E-77F0-4DC0-8F7C-D6D083A1C6C6}|BT\\BT.csproj|solutionrelative:bt\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22442A8D-6FBC-4906-B68E-E4CC2C913FCB}|Cinema\\Cinema.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\cinema\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{22442A8D-6FBC-4906-B68E-E4CC2C913FCB}|Cinema\\Cinema.csproj|solutionrelative:cinema\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\demo_crud_cinema\\frmchartgenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|solutionrelative:demo_crud_cinema\\frmchartgenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\demo_crud_cinema\\frmchartgenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|solutionrelative:demo_crud_cinema\\frmchartgenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\demo_crud_cinema\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|solutionrelative:demo_crud_cinema\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\demo_crud_cinema\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|solutionrelative:demo_crud_cinema\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\demo_crud_cinema\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|solutionrelative:demo_crud_cinema\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\demo_crud_cinema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|solutionrelative:demo_crud_cinema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\demo_crud_cinema\\testform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|solutionrelative:demo_crud_cinema\\testform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\demo_crud_cinema\\testform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|solutionrelative:demo_crud_cinema\\testform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\demo_crud_cinema\\testdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|solutionrelative:demo_crud_cinema\\testdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\demo_crud_cinema\\testform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|solutionrelative:demo_crud_cinema\\testform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\demo_crud_cinema\\testdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|solutionrelative:demo_crud_cinema\\testdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\demo_crud_cinema\\frmthongkemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|solutionrelative:demo_crud_cinema\\frmthongkemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\demo_crud_cinema\\frmthongkemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|solutionrelative:demo_crud_cinema\\frmthongkemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\demo_crud_cinema\\frmqlxuatchieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|solutionrelative:demo_crud_cinema\\frmqlxuatchieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\demo_crud_cinema\\frmqlxuatchieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|solutionrelative:demo_crud_cinema\\frmqlxuatchieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\demo_crud_cinema\\frmqlphim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|solutionrelative:demo_crud_cinema\\frmqlphim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\demo_crud_cinema\\frmqlphim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|solutionrelative:demo_crud_cinema\\frmqlphim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\demo_crud_cinema\\frmchartphim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|solutionrelative:demo_crud_cinema\\frmchartphim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\demo_crud_cinema\\frmchartstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|solutionrelative:demo_crud_cinema\\frmchartstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\demo_crud_cinema\\frmchartrevenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|solutionrelative:demo_crud_cinema\\frmchartrevenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\demo_crud_cinema\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|solutionrelative:demo_crud_cinema\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\demo_crud_cinema\\frmqlrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|solutionrelative:demo_crud_cinema\\frmqlrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\demo_crud_cinema\\frmqlrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|solutionrelative:demo_crud_cinema\\frmqlrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\demo_crud_cinema\\frmqllichsu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|solutionrelative:demo_crud_cinema\\frmqllichsu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\demo_crud_cinema\\frmqllichsu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|solutionrelative:demo_crud_cinema\\frmqllichsu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\demo_crud_cinema\\frmchartphim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|solutionrelative:demo_crud_cinema\\frmchartphim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\demo_crud_cinema\\frmchartphim.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|solutionrelative:demo_crud_cinema\\frmchartphim.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\demo_crud_cinema\\frmchartcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|solutionrelative:demo_crud_cinema\\frmchartcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\demo_crud_cinema\\frmchartcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|solutionrelative:demo_crud_cinema\\frmchartcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\demo_crud_cinema\\frmchartrevenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|solutionrelative:demo_crud_cinema\\frmchartrevenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\demo_crud_cinema\\frmqllichsu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|solutionrelative:demo_crud_cinema\\frmqllichsu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\demo_crud_cinema\\frmqlsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|solutionrelative:demo_crud_cinema\\frmqlsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\demo_crud_cinema\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|solutionrelative:demo_crud_cinema\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\demo_crud_cinema\\frmqlphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|solutionrelative:demo_crud_cinema\\frmqlphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\demo_crud_cinema\\frmchartage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|solutionrelative:demo_crud_cinema\\frmchartage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\demo_crud_cinema\\frmchartcountry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|solutionrelative:demo_crud_cinema\\frmchartcountry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\demo_crud_cinema\\frmchartstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|solutionrelative:demo_crud_cinema\\frmchartstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\demo_crud_cinema\\frmchartfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|solutionrelative:demo_crud_cinema\\frmchartfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\demo_crud_cinema\\frmchartfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|solutionrelative:demo_crud_cinema\\frmchartfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\demo_crud_cinema\\frmchartcountry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|solutionrelative:demo_crud_cinema\\frmchartcountry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\demo_crud_cinema\\frmchartage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|solutionrelative:demo_crud_cinema\\frmchartage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\demo_crud_cinema\\frmdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|solutionrelative:demo_crud_cinema\\frmdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\demo_crud_cinema\\frmqlsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|solutionrelative:demo_crud_cinema\\frmqlsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\demo_crud_cinema\\frmqlphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8921A8B6-892A-49E6-9039-E9605768E103}|Demo_CRUD_cinema\\Demo_CRUD_cinema.csproj|solutionrelative:demo_crud_cinema\\frmqlphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F6DB11-9556-4F9C-AC41-BB8627ACF9FB}|TestAdoSQL\\TestAdoSQL.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\testadosql\\frmmanastu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F6DB11-9556-4F9C-AC41-BB8627ACF9FB}|TestAdoSQL\\TestAdoSQL.csproj|solutionrelative:testadosql\\frmmanastu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F6DB11-9556-4F9C-AC41-BB8627ACF9FB}|TestAdoSQL\\TestAdoSQL.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\testadosql\\frmmanastu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71F6DB11-9556-4F9C-AC41-BB8627ACF9FB}|TestAdoSQL\\TestAdoSQL.csproj|solutionrelative:testadosql\\frmmanastu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A466F5-CF33-4DC8-92B4-552324169DCA}|MyWordPad\\MyWordPad.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\mywordpad\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06A466F5-CF33-4DC8-92B4-552324169DCA}|MyWordPad\\MyWordPad.csproj|solutionrelative:mywordpad\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CF1171-9A58-4038-A063-542C8E6A347B}|BaiSQLHocSinh\\BaiSQLHocSinh.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\baisqlhocsinh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9CF1171-9A58-4038-A063-542C8E6A347B}|BaiSQLHocSinh\\BaiSQLHocSinh.csproj|solutionrelative:baisqlhocsinh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9FE8E7-A2F2-480D-AF7C-721BEFF59955}|Lap09Report\\Lap09Report.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\lap09report\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9FE8E7-A2F2-480D-AF7C-721BEFF59955}|Lap09Report\\Lap09Report.csproj|solutionrelative:lap09report\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9FE8E7-A2F2-480D-AF7C-721BEFF59955}|Lap09Report\\Lap09Report.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\lap09report\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC9FE8E7-A2F2-480D-AF7C-721BEFF59955}|Lap09Report\\Lap09Report.csproj|solutionrelative:lap09report\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9FE8E7-A2F2-480D-AF7C-721BEFF59955}|Lap09Report\\Lap09Report.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\lap09report\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9FE8E7-A2F2-480D-AF7C-721BEFF59955}|Lap09Report\\Lap09Report.csproj|solutionrelative:lap09report\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67478467-908E-4602-B52B-B3C937CB7379}|demoLinQ\\demoLinQ.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\demolinq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67478467-908E-4602-B52B-B3C937CB7379}|demoLinQ\\demoLinQ.csproj|solutionrelative:demolinq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67478467-908E-4602-B52B-B3C937CB7379}|demoLinQ\\demoLinQ.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\demolinq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67478467-908E-4602-B52B-B3C937CB7379}|demoLinQ\\demoLinQ.csproj|solutionrelative:demolinq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9FE8E7-A2F2-480D-AF7C-721BEFF59955}|Lap09Report\\Lap09Report.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\lap09report\\dataclasses1.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{AC9FE8E7-A2F2-480D-AF7C-721BEFF59955}|Lap09Report\\Lap09Report.csproj|solutionrelative:lap09report\\dataclasses1.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18ED37DA-EB07-445B-8870-8DAFDBB87C4F}|..\\DemoReport\\DemoReport.csproj|c:\\users\\admin\\source\\repos\\demoreport\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D5263D-5DEB-4C21-BEB8-4E0C96EB4241}|NguyenTrungTinh_2100002099\\NguyenTrungTinh_2100002099.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\nguyentrungtinh_2100002099\\frmtinhtong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D5263D-5DEB-4C21-BEB8-4E0C96EB4241}|NguyenTrungTinh_2100002099\\NguyenTrungTinh_2100002099.csproj|solutionrelative:nguyentrungtinh_2100002099\\frmtinhtong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D5263D-5DEB-4C21-BEB8-4E0C96EB4241}|NguyenTrungTinh_2100002099\\NguyenTrungTinh_2100002099.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\nguyentrungtinh_2100002099\\frmtinhtong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9D5263D-5DEB-4C21-BEB8-4E0C96EB4241}|NguyenTrungTinh_2100002099\\NguyenTrungTinh_2100002099.csproj|solutionrelative:nguyentrungtinh_2100002099\\frmtinhtong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D5263D-5DEB-4C21-BEB8-4E0C96EB4241}|NguyenTrungTinh_2100002099\\NguyenTrungTinh_2100002099.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\nguyentrungtinh_2100002099\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9D5263D-5DEB-4C21-BEB8-4E0C96EB4241}|NguyenTrungTinh_2100002099\\NguyenTrungTinh_2100002099.csproj|solutionrelative:nguyentrungtinh_2100002099\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D5263D-5DEB-4C21-BEB8-4E0C96EB4241}|NguyenTrungTinh_2100002099\\NguyenTrungTinh_2100002099.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\nguyentrungtinh_2100002099\\frmabout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9D5263D-5DEB-4C21-BEB8-4E0C96EB4241}|NguyenTrungTinh_2100002099\\NguyenTrungTinh_2100002099.csproj|solutionrelative:nguyentrungtinh_2100002099\\frmabout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D5263D-5DEB-4C21-BEB8-4E0C96EB4241}|NguyenTrungTinh_2100002099\\NguyenTrungTinh_2100002099.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\nguyentrungtinh_2100002099\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D5263D-5DEB-4C21-BEB8-4E0C96EB4241}|NguyenTrungTinh_2100002099\\NguyenTrungTinh_2100002099.csproj|solutionrelative:nguyentrungtinh_2100002099\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D5263D-5DEB-4C21-BEB8-4E0C96EB4241}|NguyenTrungTinh_2100002099\\NguyenTrungTinh_2100002099.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\nguyentrungtinh_2100002099\\frmabout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D5263D-5DEB-4C21-BEB8-4E0C96EB4241}|NguyenTrungTinh_2100002099\\NguyenTrungTinh_2100002099.csproj|solutionrelative:nguyentrungtinh_2100002099\\frmabout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C469BF35-D584-4F49-86DE-3896EDA4B513}|Quanlinhanvien\\Quanlinhanvien.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\quanlinhanvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C469BF35-D584-4F49-86DE-3896EDA4B513}|Quanlinhanvien\\Quanlinhanvien.csproj|solutionrelative:quanlinhanvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C469BF35-D584-4F49-86DE-3896EDA4B513}|Quanlinhanvien\\Quanlinhanvien.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\quanlinhanvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C469BF35-D584-4F49-86DE-3896EDA4B513}|Quanlinhanvien\\Quanlinhanvien.csproj|solutionrelative:quanlinhanvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E9E545D-B9AE-45FC-B9B7-C072D83F01B2}|AddName\\AddName.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\addname\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E9E545D-B9AE-45FC-B9B7-C072D83F01B2}|AddName\\AddName.csproj|solutionrelative:addname\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E9E545D-B9AE-45FC-B9B7-C072D83F01B2}|AddName\\AddName.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\addname\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E9E545D-B9AE-45FC-B9B7-C072D83F01B2}|AddName\\AddName.csproj|solutionrelative:addname\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59099E8F-4835-4C02-BC1C-405D9E9F22AB}|TaoTableDong\\TaoTableDong.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\taotabledong\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59099E8F-4835-4C02-BC1C-405D9E9F22AB}|TaoTableDong\\TaoTableDong.csproj|solutionrelative:taotabledong\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59099E8F-4835-4C02-BC1C-405D9E9F22AB}|TaoTableDong\\TaoTableDong.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\taotabledong\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59099E8F-4835-4C02-BC1C-405D9E9F22AB}|TaoTableDong\\TaoTableDong.csproj|solutionrelative:taotabledong\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59099E8F-4835-4C02-BC1C-405D9E9F22AB}|TaoTableDong\\TaoTableDong.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\taotabledong\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59099E8F-4835-4C02-BC1C-405D9E9F22AB}|TaoTableDong\\TaoTableDong.csproj|solutionrelative:taotabledong\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59099E8F-4835-4C02-BC1C-405D9E9F22AB}|TaoTableDong\\TaoTableDong.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\taotabledong\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59099E8F-4835-4C02-BC1C-405D9E9F22AB}|TaoTableDong\\TaoTableDong.csproj|solutionrelative:taotabledong\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C563B3-4067-4590-BBF1-DF5E56EEC907}|testcontrol\\testcontrol.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\testcontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B2C563B3-4067-4590-BBF1-DF5E56EEC907}|testcontrol\\testcontrol.csproj|solutionrelative:testcontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD3EF5-3AE3-4CBC-8C46-CE8906F64332}|TestTry2\\TestTry2.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\testtry2\\frmxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD3EF5-3AE3-4CBC-8C46-CE8906F64332}|TestTry2\\TestTry2.csproj|solutionrelative:testtry2\\frmxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD3EF5-3AE3-4CBC-8C46-CE8906F64332}|TestTry2\\TestTry2.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\testtry2\\frmxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54DD3EF5-3AE3-4CBC-8C46-CE8906F64332}|TestTry2\\TestTry2.csproj|solutionrelative:testtry2\\frmxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD3EF5-3AE3-4CBC-8C46-CE8906F64332}|TestTry2\\TestTry2.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\testtry2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54DD3EF5-3AE3-4CBC-8C46-CE8906F64332}|TestTry2\\TestTry2.csproj|solutionrelative:testtry2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD3EF5-3AE3-4CBC-8C46-CE8906F64332}|TestTry2\\TestTry2.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\testtry2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD3EF5-3AE3-4CBC-8C46-CE8906F64332}|TestTry2\\TestTry2.csproj|solutionrelative:testtry2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CF1171-9A58-4038-A063-542C8E6A347B}|BaiSQLHocSinh\\BaiSQLHocSinh.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\baisqlhocsinh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CF1171-9A58-4038-A063-542C8E6A347B}|BaiSQLHocSinh\\BaiSQLHocSinh.csproj|solutionrelative:baisqlhocsinh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CF1171-9A58-4038-A063-542C8E6A347B}|BaiSQLHocSinh\\BaiSQLHocSinh.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\baisqlhocsinh\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CF1171-9A58-4038-A063-542C8E6A347B}|BaiSQLHocSinh\\BaiSQLHocSinh.csproj|solutionrelative:baisqlhocsinh\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CF1171-9A58-4038-A063-542C8E6A347B}|BaiSQLHocSinh\\BaiSQLHocSinh.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\baisqlhocsinh\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CF1171-9A58-4038-A063-542C8E6A347B}|BaiSQLHocSinh\\BaiSQLHocSinh.csproj|solutionrelative:baisqlhocsinh\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B835A0F-5413-4587-A5BB-895A6A93D894}|testSQLAdo\\testSQLAdo.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\testsqlado\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B835A0F-5413-4587-A5BB-895A6A93D894}|testSQLAdo\\testSQLAdo.csproj|solutionrelative:testsqlado\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B835A0F-5413-4587-A5BB-895A6A93D894}|testSQLAdo\\testSQLAdo.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\testsqlado\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B835A0F-5413-4587-A5BB-895A6A93D894}|testSQLAdo\\testSQLAdo.csproj|solutionrelative:testsqlado\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B835A0F-5413-4587-A5BB-895A6A93D894}|testSQLAdo\\testSQLAdo.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\testsqlado\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B835A0F-5413-4587-A5BB-895A6A93D894}|testSQLAdo\\testSQLAdo.csproj|solutionrelative:testsqlado\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B835A0F-5413-4587-A5BB-895A6A93D894}|testSQLAdo\\testSQLAdo.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\testsqlado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B835A0F-5413-4587-A5BB-895A6A93D894}|testSQLAdo\\testSQLAdo.csproj|solutionrelative:testsqlado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4865677A-256D-4D6E-AAB9-A9D4AAD81526}|MyPaint\\MyPaint.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\mypaint\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4865677A-256D-4D6E-AAB9-A9D4AAD81526}|MyPaint\\MyPaint.csproj|solutionrelative:mypaint\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A466F5-CF33-4DC8-92B4-552324169DCA}|MyWordPad\\MyWordPad.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\mywordpad\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A466F5-CF33-4DC8-92B4-552324169DCA}|MyWordPad\\MyWordPad.csproj|solutionrelative:mywordpad\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4865677A-256D-4D6E-AAB9-A9D4AAD81526}|MyPaint\\MyPaint.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\mypaint\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4865677A-256D-4D6E-AAB9-A9D4AAD81526}|MyPaint\\MyPaint.csproj|solutionrelative:mypaint\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4865677A-256D-4D6E-AAB9-A9D4AAD81526}|MyPaint\\MyPaint.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\mypaint\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4865677A-256D-4D6E-AAB9-A9D4AAD81526}|MyPaint\\MyPaint.csproj|solutionrelative:mypaint\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C563B3-4067-4590-BBF1-DF5E56EEC907}|testcontrol\\testcontrol.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\testcontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C563B3-4067-4590-BBF1-DF5E56EEC907}|testcontrol\\testcontrol.csproj|solutionrelative:testcontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C563B3-4067-4590-BBF1-DF5E56EEC907}|testcontrol\\testcontrol.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\testcontrol\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B2C563B3-4067-4590-BBF1-DF5E56EEC907}|testcontrol\\testcontrol.csproj|solutionrelative:testcontrol\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E31C12-0B9E-451D-B164-2B43B68B2B74}|DongHoRun\\DongHoRun.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\donghorun\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73E31C12-0B9E-451D-B164-2B43B68B2B74}|DongHoRun\\DongHoRun.csproj|solutionrelative:donghorun\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2BB6C0-2F11-4A80-8CF8-A007F27F434B}|Lap06GDI\\Lap06GDI.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\lap06gdi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD2BB6C0-2F11-4A80-8CF8-A007F27F434B}|Lap06GDI\\Lap06GDI.csproj|solutionrelative:lap06gdi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2BB6C0-2F11-4A80-8CF8-A007F27F434B}|Lap06GDI\\Lap06GDI.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\lap06gdi\\lap06gdi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AD2BB6C0-2F11-4A80-8CF8-A007F27F434B}|Lap06GDI\\Lap06GDI.csproj|solutionrelative:lap06gdi\\lap06gdi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2BB6C0-2F11-4A80-8CF8-A007F27F434B}|Lap06GDI\\Lap06GDI.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\lap06gdi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2BB6C0-2F11-4A80-8CF8-A007F27F434B}|Lap06GDI\\Lap06GDI.csproj|solutionrelative:lap06gdi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BCC3729-5BD6-48D9-ACBA-9C96F3D3070B}|GDIDemo\\GDIDemo.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\gdidemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8BCC3729-5BD6-48D9-ACBA-9C96F3D3070B}|GDIDemo\\GDIDemo.csproj|solutionrelative:gdidemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A94765-26C7-46CC-AE63-0C26C059459F}|MDIDemo\\MDIDemo.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\mdidemo\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54A94765-26C7-46CC-AE63-0C26C059459F}|MDIDemo\\MDIDemo.csproj|solutionrelative:mdidemo\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A94765-26C7-46CC-AE63-0C26C059459F}|MDIDemo\\MDIDemo.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\mdidemo\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54A94765-26C7-46CC-AE63-0C26C059459F}|MDIDemo\\MDIDemo.csproj|solutionrelative:mdidemo\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BCC3729-5BD6-48D9-ACBA-9C96F3D3070B}|GDIDemo\\GDIDemo.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\gdidemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BCC3729-5BD6-48D9-ACBA-9C96F3D3070B}|GDIDemo\\GDIDemo.csproj|solutionrelative:gdidemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A94765-26C7-46CC-AE63-0C26C059459F}|MDIDemo\\MDIDemo.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\mdidemo\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54A94765-26C7-46CC-AE63-0C26C059459F}|MDIDemo\\MDIDemo.csproj|solutionrelative:mdidemo\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A94765-26C7-46CC-AE63-0C26C059459F}|MDIDemo\\MDIDemo.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\mdidemo\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54A94765-26C7-46CC-AE63-0C26C059459F}|MDIDemo\\MDIDemo.csproj|solutionrelative:mdidemo\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A94765-26C7-46CC-AE63-0C26C059459F}|MDIDemo\\MDIDemo.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\mdidemo\\frmsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54A94765-26C7-46CC-AE63-0C26C059459F}|MDIDemo\\MDIDemo.csproj|solutionrelative:mdidemo\\frmsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6ADED8F-0C67-444F-96BE-6AB08310D951}|MyUserControl2\\MyUserControl2.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\myusercontrol2\\myclock1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{F6ADED8F-0C67-444F-96BE-6AB08310D951}|MyUserControl2\\MyUserControl2.csproj|solutionrelative:myusercontrol2\\myclock1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22442A8D-6FBC-4906-B68E-E4CC2C913FCB}|Cinema\\Cinema.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\cinema\\purchasesuccessform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{22442A8D-6FBC-4906-B68E-E4CC2C913FCB}|Cinema\\Cinema.csproj|solutionrelative:cinema\\purchasesuccessform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6ADED8F-0C67-444F-96BE-6AB08310D951}|MyUserControl2\\MyUserControl2.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\myusercontrol2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6ADED8F-0C67-444F-96BE-6AB08310D951}|MyUserControl2\\MyUserControl2.csproj|solutionrelative:myusercontrol2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6ADED8F-0C67-444F-96BE-6AB08310D951}|MyUserControl2\\MyUserControl2.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\myusercontrol2\\myclock1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6ADED8F-0C67-444F-96BE-6AB08310D951}|MyUserControl2\\MyUserControl2.csproj|solutionrelative:myusercontrol2\\myclock1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6ADED8F-0C67-444F-96BE-6AB08310D951}|MyUserControl2\\MyUserControl2.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\myusercontrol2\\myclock1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6ADED8F-0C67-444F-96BE-6AB08310D951}|MyUserControl2\\MyUserControl2.csproj|solutionrelative:myusercontrol2\\myclock1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6ADED8F-0C67-444F-96BE-6AB08310D951}|MyUserControl2\\MyUserControl2.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\myusercontrol2\\myusercontrol2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F6ADED8F-0C67-444F-96BE-6AB08310D951}|MyUserControl2\\MyUserControl2.csproj|solutionrelative:myusercontrol2\\myusercontrol2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6ADED8F-0C67-444F-96BE-6AB08310D951}|MyUserControl2\\MyUserControl2.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\myusercontrol2\\myclock1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6ADED8F-0C67-444F-96BE-6AB08310D951}|MyUserControl2\\MyUserControl2.csproj|solutionrelative:myusercontrol2\\myclock1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03305069-9DD6-4353-A109-1050143850AE}|MyUserControl\\MyUserControl.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\myusercontrol\\myclock.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{03305069-9DD6-4353-A109-1050143850AE}|MyUserControl\\MyUserControl.csproj|solutionrelative:myusercontrol\\myclock.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03305069-9DD6-4353-A109-1050143850AE}|MyUserControl\\MyUserControl.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\myusercontrol\\myclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03305069-9DD6-4353-A109-1050143850AE}|MyUserControl\\MyUserControl.csproj|solutionrelative:myusercontrol\\myclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03305069-9DD6-4353-A109-1050143850AE}|MyUserControl\\MyUserControl.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\myusercontrol\\myclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{03305069-9DD6-4353-A109-1050143850AE}|MyUserControl\\MyUserControl.csproj|solutionrelative:myusercontrol\\myclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03305069-9DD6-4353-A109-1050143850AE}|MyUserControl\\MyUserControl.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\myusercontrol\\myclock.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03305069-9DD6-4353-A109-1050143850AE}|MyUserControl\\MyUserControl.csproj|solutionrelative:myusercontrol\\myclock.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22442A8D-6FBC-4906-B68E-E4CC2C913FCB}|Cinema\\Cinema.csproj|C:\\Users\\admin\\source\\repos\\Cinema\\cinema\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22442A8D-6FBC-4906-B68E-E4CC2C913FCB}|Cinema\\Cinema.csproj|solutionrelative:cinema\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\admin\\source\\repos\\ucdongho\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\admin\\source\\repos\\ucdongho\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\BT\\Form1.cs",
+              "RelativeDocumentMoniker": "BT\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\BT\\Form1.cs [Design]",
+              "RelativeToolTip": "BT\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T01:15:22.38Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmChartGenre.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmChartGenre.cs",
+              "RelativeDocumentMoniker": "Demo_CRUD_cinema\\frmChartGenre.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmChartGenre.cs",
+              "RelativeToolTip": "Demo_CRUD_cinema\\frmChartGenre.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwBYAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T07:24:09.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Cinema\\Form1.cs",
+              "RelativeDocumentMoniker": "Cinema\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Cinema\\Form1.cs [Design]",
+              "RelativeToolTip": "Cinema\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T13:05:10.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\BT\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "BT\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\BT\\Form1.Designer.cs",
+              "RelativeToolTip": "BT\\Form1.Designer.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwD0AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T01:03:18.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\BT\\Form1.cs",
+              "RelativeDocumentMoniker": "BT\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\BT\\Form1.cs",
+              "RelativeToolTip": "BT\\Form1.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAmwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T00:52:45.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmChartGenre.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmChartGenre.cs",
+              "RelativeDocumentMoniker": "Demo_CRUD_cinema\\frmChartGenre.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmChartGenre.cs [Design]",
+              "RelativeToolTip": "Demo_CRUD_cinema\\frmChartGenre.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T07:12:13.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TestForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\TestForm.cs",
+              "RelativeDocumentMoniker": "Demo_CRUD_cinema\\TestForm.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\TestForm.cs [Design]",
+              "RelativeToolTip": "Demo_CRUD_cinema\\TestForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T03:00:18.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\Program.cs",
+              "RelativeDocumentMoniker": "Demo_CRUD_cinema\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\Program.cs",
+              "RelativeToolTip": "Demo_CRUD_cinema\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T13:18:59.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TestForm.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\TestForm.cs",
+              "RelativeDocumentMoniker": "Demo_CRUD_cinema\\TestForm.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\TestForm.cs",
+              "RelativeToolTip": "Demo_CRUD_cinema\\TestForm.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAADwv2oAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T03:00:23.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TestDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\TestDashboard.cs",
+              "RelativeDocumentMoniker": "Demo_CRUD_cinema\\TestDashboard.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\TestDashboard.cs [Design]",
+              "RelativeToolTip": "Demo_CRUD_cinema\\TestDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T04:08:58.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\Form1.cs",
+              "RelativeDocumentMoniker": "Demo_CRUD_cinema\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\Form1.cs [Design]",
+              "RelativeToolTip": "Demo_CRUD_cinema\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T00:48:18.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\Form1.cs",
+              "RelativeDocumentMoniker": "Demo_CRUD_cinema\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\Form1.cs",
+              "RelativeToolTip": "Demo_CRUD_cinema\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T00:48:52.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Demo_CRUD_cinema\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\Form1.Designer.cs",
+              "RelativeToolTip": "Demo_CRUD_cinema\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T00:50:18.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmQLXuatChieu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmQLXuatChieu.cs",
+              "RelativeDocumentMoniker": "Demo_CRUD_cinema\\frmQLXuatChieu.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmQLXuatChieu.cs [Design]",
+              "RelativeToolTip": "Demo_CRUD_cinema\\frmQLXuatChieu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T02:11:44.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TestForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\TestForm.Designer.cs",
+              "RelativeDocumentMoniker": "Demo_CRUD_cinema\\TestForm.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\TestForm.Designer.cs",
+              "RelativeToolTip": "Demo_CRUD_cinema\\TestForm.Designer.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAABwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T03:07:52.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TestDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\TestDashboard.cs",
+              "RelativeDocumentMoniker": "Demo_CRUD_cinema\\TestDashboard.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\TestDashboard.cs",
+              "RelativeToolTip": "Demo_CRUD_cinema\\TestDashboard.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAUwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T04:09:42.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmQLXuatChieu.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmQLXuatChieu.cs",
+              "RelativeDocumentMoniker": "Demo_CRUD_cinema\\frmQLXuatChieu.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmQLXuatChieu.cs",
+              "RelativeToolTip": "Demo_CRUD_cinema\\frmQLXuatChieu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T02:27:26.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmThongKeMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmThongKeMenu.cs",
+              "RelativeDocumentMoniker": "Demo_CRUD_cinema\\frmThongKeMenu.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmThongKeMenu.cs [Design]",
+              "RelativeToolTip": "Demo_CRUD_cinema\\frmThongKeMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T06:55:26.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmThongKeMenu.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmThongKeMenu.cs",
+              "RelativeDocumentMoniker": "Demo_CRUD_cinema\\frmThongKeMenu.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmThongKeMenu.cs",
+              "RelativeToolTip": "Demo_CRUD_cinema\\frmThongKeMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T07:17:41.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmQLPhim.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmQLPhim.cs",
+              "RelativeDocumentMoniker": "Demo_CRUD_cinema\\frmQLPhim.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmQLPhim.cs",
+              "RelativeToolTip": "Demo_CRUD_cinema\\frmQLPhim.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAewAkAAACEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T13:00:38.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmQLPhim.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmQLPhim.cs",
+              "RelativeDocumentMoniker": "Demo_CRUD_cinema\\frmQLPhim.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmQLPhim.cs [Design]",
+              "RelativeToolTip": "Demo_CRUD_cinema\\frmQLPhim.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T08:08:24.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmChartPhim.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmChartPhim.cs",
+              "RelativeDocumentMoniker": "Demo_CRUD_cinema\\frmChartPhim.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmChartPhim.cs [Design]",
+              "RelativeToolTip": "Demo_CRUD_cinema\\frmChartPhim.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T08:03:22.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmChartState.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmChartState.cs",
+              "RelativeDocumentMoniker": "Demo_CRUD_cinema\\frmChartState.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmChartState.cs [Design]",
+              "RelativeToolTip": "Demo_CRUD_cinema\\frmChartState.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T07:14:26.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmChartRevenue.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmChartRevenue.cs",
+              "RelativeDocumentMoniker": "Demo_CRUD_cinema\\frmChartRevenue.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmChartRevenue.cs [Design]",
+              "RelativeToolTip": "Demo_CRUD_cinema\\frmChartRevenue.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T07:13:07.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmDashboard.cs",
+              "RelativeDocumentMoniker": "Demo_CRUD_cinema\\frmDashboard.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmDashboard.cs [Design]",
+              "RelativeToolTip": "Demo_CRUD_cinema\\frmDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T13:13:31.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmQLRap.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmQLRap.cs",
+              "RelativeDocumentMoniker": "Demo_CRUD_cinema\\frmQLRap.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmQLRap.cs",
+              "RelativeToolTip": "Demo_CRUD_cinema\\frmQLRap.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwC0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:53:32.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "frmQLLichSu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmQLLichSu.cs",
+              "RelativeDocumentMoniker": "Demo_CRUD_cinema\\frmQLLichSu.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmQLLichSu.cs [Design]",
+              "RelativeToolTip": "Demo_CRUD_cinema\\frmQLLichSu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T02:41:02.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmQLRap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmQLRap.cs",
+              "RelativeDocumentMoniker": "Demo_CRUD_cinema\\frmQLRap.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmQLRap.cs [Design]",
+              "RelativeToolTip": "Demo_CRUD_cinema\\frmQLRap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T08:39:00.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "frmQLLichSu.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmQLLichSu.cs",
+              "RelativeDocumentMoniker": "Demo_CRUD_cinema\\frmQLLichSu.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmQLLichSu.cs",
+              "RelativeToolTip": "Demo_CRUD_cinema\\frmQLLichSu.cs",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAYwKcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T03:04:25.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "frmChartPhim.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmChartPhim.cs",
+              "RelativeDocumentMoniker": "Demo_CRUD_cinema\\frmChartPhim.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmChartPhim.cs",
+              "RelativeToolTip": "Demo_CRUD_cinema\\frmChartPhim.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAIwDQAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T08:05:04.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "frmChartPhim.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmChartPhim.Designer.cs",
+              "RelativeDocumentMoniker": "Demo_CRUD_cinema\\frmChartPhim.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmChartPhim.Designer.cs",
+              "RelativeToolTip": "Demo_CRUD_cinema\\frmChartPhim.Designer.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAwEwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T08:10:45.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "frmChartCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmChartCustomer.cs",
+              "RelativeDocumentMoniker": "Demo_CRUD_cinema\\frmChartCustomer.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmChartCustomer.cs",
+              "RelativeToolTip": "Demo_CRUD_cinema\\frmChartCustomer.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAmwE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T07:27:48.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "frmChartCustomer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmChartCustomer.cs",
+              "RelativeDocumentMoniker": "Demo_CRUD_cinema\\frmChartCustomer.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmChartCustomer.cs [Design]",
+              "RelativeToolTip": "Demo_CRUD_cinema\\frmChartCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T07:13:27.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "frmChartRevenue.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmChartRevenue.cs",
+              "RelativeDocumentMoniker": "Demo_CRUD_cinema\\frmChartRevenue.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmChartRevenue.cs",
+              "RelativeToolTip": "Demo_CRUD_cinema\\frmChartRevenue.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwCcAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T07:29:15.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "frmQLLichSu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmQLLichSu.Designer.cs",
+              "RelativeDocumentMoniker": "Demo_CRUD_cinema\\frmQLLichSu.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmQLLichSu.Designer.cs",
+              "RelativeToolTip": "Demo_CRUD_cinema\\frmQLLichSu.Designer.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAASwHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T12:02:27.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "frmDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmDashboard.cs",
+              "RelativeDocumentMoniker": "Demo_CRUD_cinema\\frmDashboard.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmDashboard.cs",
+              "RelativeToolTip": "Demo_CRUD_cinema\\frmDashboard.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAjwD0AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T13:20:37.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "frmQLSanPham.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmQLSanPham.cs",
+              "RelativeDocumentMoniker": "Demo_CRUD_cinema\\frmQLSanPham.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmQLSanPham.cs [Design]",
+              "RelativeToolTip": "Demo_CRUD_cinema\\frmQLSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T01:35:15.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "frmQLPhong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmQLPhong.cs",
+              "RelativeDocumentMoniker": "Demo_CRUD_cinema\\frmQLPhong.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmQLPhong.cs [Design]",
+              "RelativeToolTip": "Demo_CRUD_cinema\\frmQLPhong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T08:25:22.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "frmChartAge.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmChartAge.cs",
+              "RelativeDocumentMoniker": "Demo_CRUD_cinema\\frmChartAge.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmChartAge.cs [Design]",
+              "RelativeToolTip": "Demo_CRUD_cinema\\frmChartAge.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T07:12:52.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "frmChartCountry.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmChartCountry.cs",
+              "RelativeDocumentMoniker": "Demo_CRUD_cinema\\frmChartCountry.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmChartCountry.cs [Design]",
+              "RelativeToolTip": "Demo_CRUD_cinema\\frmChartCountry.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T07:12:35.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "frmChartState.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmChartState.cs",
+              "RelativeDocumentMoniker": "Demo_CRUD_cinema\\frmChartState.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmChartState.cs",
+              "RelativeToolTip": "Demo_CRUD_cinema\\frmChartState.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAmwC4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T07:29:53.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "frmChartFood.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmChartFood.cs",
+              "RelativeDocumentMoniker": "Demo_CRUD_cinema\\frmChartFood.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmChartFood.cs",
+              "RelativeToolTip": "Demo_CRUD_cinema\\frmChartFood.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAmwE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T07:28:27.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "frmChartFood.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmChartFood.cs",
+              "RelativeDocumentMoniker": "Demo_CRUD_cinema\\frmChartFood.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmChartFood.cs [Design]",
+              "RelativeToolTip": "Demo_CRUD_cinema\\frmChartFood.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T07:14:09.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "frmChartCountry.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmChartCountry.cs",
+              "RelativeDocumentMoniker": "Demo_CRUD_cinema\\frmChartCountry.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmChartCountry.cs",
+              "RelativeToolTip": "Demo_CRUD_cinema\\frmChartCountry.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAmwE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T07:26:29.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "frmChartAge.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmChartAge.cs",
+              "RelativeDocumentMoniker": "Demo_CRUD_cinema\\frmChartAge.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmChartAge.cs",
+              "RelativeToolTip": "Demo_CRUD_cinema\\frmChartAge.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAmwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T07:22:04.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "frmDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "Demo_CRUD_cinema\\frmDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmDashboard.Designer.cs",
+              "RelativeToolTip": "Demo_CRUD_cinema\\frmDashboard.Designer.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAYwFgAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T02:06:51.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "frmQLSanPham.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmQLSanPham.cs",
+              "RelativeDocumentMoniker": "Demo_CRUD_cinema\\frmQLSanPham.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmQLSanPham.cs",
+              "RelativeToolTip": "Demo_CRUD_cinema\\frmQLSanPham.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T01:57:47.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "frmQLPhong.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmQLPhong.cs",
+              "RelativeDocumentMoniker": "Demo_CRUD_cinema\\frmQLPhong.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Demo_CRUD_cinema\\frmQLPhong.cs",
+              "RelativeToolTip": "Demo_CRUD_cinema\\frmQLPhong.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAwwI8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T13:02:42.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\MyWordPad\\Form1.cs",
+              "RelativeDocumentMoniker": "MyWordPad\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\MyWordPad\\Form1.cs [Design]",
+              "RelativeToolTip": "MyWordPad\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T02:23:20.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Lap09Report\\Form1.cs",
+              "RelativeDocumentMoniker": "Lap09Report\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Lap09Report\\Form1.cs",
+              "RelativeToolTip": "Lap09Report\\Form1.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwDAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T03:45:29.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Lap09Report\\Form1.cs",
+              "RelativeDocumentMoniker": "Lap09Report\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Lap09Report\\Form1.cs [Design]",
+              "RelativeToolTip": "Lap09Report\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T03:14:32.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "FrmManaStu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\TestAdoSQL\\FrmManaStu.cs",
+              "RelativeDocumentMoniker": "TestAdoSQL\\FrmManaStu.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\TestAdoSQL\\FrmManaStu.cs [Design]",
+              "RelativeToolTip": "TestAdoSQL\\FrmManaStu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T02:31:39.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "FrmManaStu.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\TestAdoSQL\\FrmManaStu.cs",
+              "RelativeDocumentMoniker": "TestAdoSQL\\FrmManaStu.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\TestAdoSQL\\FrmManaStu.cs",
+              "RelativeToolTip": "TestAdoSQL\\FrmManaStu.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAowEsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T07:05:01.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "DataClasses1.dbml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Lap09Report\\DataClasses1.dbml",
+              "RelativeDocumentMoniker": "Lap09Report\\DataClasses1.dbml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Lap09Report\\DataClasses1.dbml",
+              "RelativeToolTip": "Lap09Report\\DataClasses1.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2024-04-19T03:44:05.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "HangHoa.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Lap09Report\\HangHoa.cs",
+              "RelativeDocumentMoniker": "Lap09Report\\HangHoa.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Lap09Report\\HangHoa.cs",
+              "RelativeToolTip": "Lap09Report\\HangHoa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T03:46:29.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\demoLinQ\\Form1.cs",
+              "RelativeDocumentMoniker": "demoLinQ\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\demoLinQ\\Form1.cs [Design]",
+              "RelativeToolTip": "demoLinQ\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T04:05:22.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\BaiSQLHocSinh\\Form1.cs",
+              "RelativeDocumentMoniker": "BaiSQLHocSinh\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\BaiSQLHocSinh\\Form1.cs [Design]",
+              "RelativeToolTip": "BaiSQLHocSinh\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:09:55.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\demoLinQ\\Form1.cs",
+              "RelativeDocumentMoniker": "demoLinQ\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\demoLinQ\\Form1.cs",
+              "RelativeToolTip": "demoLinQ\\Form1.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T04:05:24.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\DemoReport\\Form1.cs",
+              "RelativeDocumentMoniker": "DemoReport\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\DemoReport\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\DemoReport\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T01:05:23.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "frmTinhTong.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\NguyenTrungTinh_2100002099\\frmTinhTong.cs",
+              "RelativeDocumentMoniker": "NguyenTrungTinh_2100002099\\frmTinhTong.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\NguyenTrungTinh_2100002099\\frmTinhTong.cs",
+              "RelativeToolTip": "NguyenTrungTinh_2100002099\\frmTinhTong.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T03:03:05.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\NguyenTrungTinh_2100002099\\Form1.cs",
+              "RelativeDocumentMoniker": "NguyenTrungTinh_2100002099\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\NguyenTrungTinh_2100002099\\Form1.cs",
+              "RelativeToolTip": "NguyenTrungTinh_2100002099\\Form1.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAqwB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T02:57:31.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "frmAbout.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\NguyenTrungTinh_2100002099\\frmAbout.cs",
+              "RelativeDocumentMoniker": "NguyenTrungTinh_2100002099\\frmAbout.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\NguyenTrungTinh_2100002099\\frmAbout.cs",
+              "RelativeToolTip": "NguyenTrungTinh_2100002099\\frmAbout.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T02:55:11.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "frmTinhTong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\NguyenTrungTinh_2100002099\\frmTinhTong.cs",
+              "RelativeDocumentMoniker": "NguyenTrungTinh_2100002099\\frmTinhTong.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\NguyenTrungTinh_2100002099\\frmTinhTong.cs [Design]",
+              "RelativeToolTip": "NguyenTrungTinh_2100002099\\frmTinhTong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T02:54:11.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\NguyenTrungTinh_2100002099\\Form1.cs",
+              "RelativeDocumentMoniker": "NguyenTrungTinh_2100002099\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\NguyenTrungTinh_2100002099\\Form1.cs [Design]",
+              "RelativeToolTip": "NguyenTrungTinh_2100002099\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T02:51:33.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "frmAbout.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\NguyenTrungTinh_2100002099\\frmAbout.cs",
+              "RelativeDocumentMoniker": "NguyenTrungTinh_2100002099\\frmAbout.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\NguyenTrungTinh_2100002099\\frmAbout.cs [Design]",
+              "RelativeToolTip": "NguyenTrungTinh_2100002099\\frmAbout.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T02:52:25.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Quanlinhanvien\\Form1.cs",
+              "RelativeDocumentMoniker": "Quanlinhanvien\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Quanlinhanvien\\Form1.cs",
+              "RelativeToolTip": "Quanlinhanvien\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T07:48:49.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\AddName\\Form1.cs",
+              "RelativeDocumentMoniker": "AddName\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\AddName\\Form1.cs",
+              "RelativeToolTip": "AddName\\Form1.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwC0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T13:11:41.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\AddName\\Form1.cs",
+              "RelativeDocumentMoniker": "AddName\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\AddName\\Form1.cs [Design]",
+              "RelativeToolTip": "AddName\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T13:06:40.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\TaoTableDong\\Form1.cs",
+              "RelativeDocumentMoniker": "TaoTableDong\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\TaoTableDong\\Form1.cs",
+              "RelativeToolTip": "TaoTableDong\\Form1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA8wBsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T12:58:15.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\TaoTableDong\\Form2.cs",
+              "RelativeDocumentMoniker": "TaoTableDong\\Form2.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\TaoTableDong\\Form2.cs [Design]",
+              "RelativeToolTip": "TaoTableDong\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T12:58:09.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Quanlinhanvien\\Form1.cs",
+              "RelativeDocumentMoniker": "Quanlinhanvien\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Quanlinhanvien\\Form1.cs [Design]",
+              "RelativeToolTip": "Quanlinhanvien\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T07:39:20.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\TaoTableDong\\Form2.cs",
+              "RelativeDocumentMoniker": "TaoTableDong\\Form2.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\TaoTableDong\\Form2.cs",
+              "RelativeToolTip": "TaoTableDong\\Form2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T13:01:18.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\TaoTableDong\\Form1.cs",
+              "RelativeDocumentMoniker": "TaoTableDong\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\TaoTableDong\\Form1.cs [Design]",
+              "RelativeToolTip": "TaoTableDong\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T12:54:49.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\testcontrol\\Form1.cs",
+              "RelativeDocumentMoniker": "testcontrol\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\testcontrol\\Form1.cs [Design]",
+              "RelativeToolTip": "testcontrol\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T03:50:29.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "UserControl1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\UcDongHo\\UserControl1.cs",
+              "RelativeDocumentMoniker": "..\\UcDongHo\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\UcDongHo\\UserControl1.cs",
+              "RelativeToolTip": "..\\UcDongHo\\UserControl1.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAqwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T06:15:41.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "UserControl1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\UcDongHo\\UserControl1.cs",
+              "RelativeDocumentMoniker": "..\\UcDongHo\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\UcDongHo\\UserControl1.cs [Design]",
+              "RelativeToolTip": "..\\UcDongHo\\UserControl1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T06:11:52.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "frmXuat.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\TestTry2\\frmXuat.cs",
+              "RelativeDocumentMoniker": "TestTry2\\frmXuat.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\TestTry2\\frmXuat.cs",
+              "RelativeToolTip": "TestTry2\\frmXuat.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAuwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T13:01:21.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "frmXuat.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\TestTry2\\frmXuat.cs",
+              "RelativeDocumentMoniker": "TestTry2\\frmXuat.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\TestTry2\\frmXuat.cs [Design]",
+              "RelativeToolTip": "TestTry2\\frmXuat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:54:51.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\TestTry2\\Form1.cs",
+              "RelativeDocumentMoniker": "TestTry2\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\TestTry2\\Form1.cs",
+              "RelativeToolTip": "TestTry2\\Form1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAMwA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:57:17.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\TestTry2\\Form1.cs",
+              "RelativeDocumentMoniker": "TestTry2\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\TestTry2\\Form1.cs [Design]",
+              "RelativeToolTip": "TestTry2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:54:13.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\BaiSQLHocSinh\\Form1.cs",
+              "RelativeDocumentMoniker": "BaiSQLHocSinh\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\BaiSQLHocSinh\\Form1.cs",
+              "RelativeToolTip": "BaiSQLHocSinh\\Form1.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwBAAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:51:09.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\BaiSQLHocSinh\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "BaiSQLHocSinh\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\BaiSQLHocSinh\\Form1.Designer.cs",
+              "RelativeToolTip": "BaiSQLHocSinh\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T04:24:37.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\BaiSQLHocSinh\\DataProvider.cs",
+              "RelativeDocumentMoniker": "BaiSQLHocSinh\\DataProvider.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\BaiSQLHocSinh\\DataProvider.cs",
+              "RelativeToolTip": "BaiSQLHocSinh\\DataProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:19:37.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\testSQLAdo\\Form1.cs",
+              "RelativeDocumentMoniker": "testSQLAdo\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\testSQLAdo\\Form1.cs",
+              "RelativeToolTip": "testSQLAdo\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T02:43:29.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\testSQLAdo\\Form1.cs",
+              "RelativeDocumentMoniker": "testSQLAdo\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\testSQLAdo\\Form1.cs [Design]",
+              "RelativeToolTip": "testSQLAdo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T01:16:09.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\testSQLAdo\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "testSQLAdo\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\testSQLAdo\\Form1.Designer.cs",
+              "RelativeToolTip": "testSQLAdo\\Form1.Designer.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAAAFIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T01:50:20.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\testSQLAdo\\Program.cs",
+              "RelativeDocumentMoniker": "testSQLAdo\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\testSQLAdo\\Program.cs",
+              "RelativeToolTip": "testSQLAdo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T01:49:41.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Lap06GDI\\Form1.cs",
+              "RelativeDocumentMoniker": "Lap06GDI\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Lap06GDI\\Form1.cs [Design]",
+              "RelativeToolTip": "Lap06GDI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T13:05:10.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "Lap06GDI.csproj",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Lap06GDI\\Lap06GDI.csproj",
+              "RelativeDocumentMoniker": "Lap06GDI\\Lap06GDI.csproj",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Lap06GDI\\Lap06GDI.csproj",
+              "RelativeToolTip": "Lap06GDI\\Lap06GDI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-03T13:05:10.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Lap06GDI\\Form1.cs",
+              "RelativeDocumentMoniker": "Lap06GDI\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Lap06GDI\\Form1.cs",
+              "RelativeToolTip": "Lap06GDI\\Form1.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAYwJwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T13:05:10.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\GDIDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "GDIDemo\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\GDIDemo\\Form1.cs [Design]",
+              "RelativeToolTip": "GDIDemo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T13:05:10.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\MyPaint\\Form1.cs",
+              "RelativeDocumentMoniker": "MyPaint\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\MyPaint\\Form1.cs",
+              "RelativeToolTip": "MyPaint\\Form1.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAgwHEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T12:06:44.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\MyPaint\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "MyPaint\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\MyPaint\\Form1.Designer.cs",
+              "RelativeToolTip": "MyPaint\\Form1.Designer.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAYwGsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T12:29:26.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\MyWordPad\\Form1.cs",
+              "RelativeDocumentMoniker": "MyWordPad\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\MyWordPad\\Form1.cs",
+              "RelativeToolTip": "MyWordPad\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T06:00:32.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\MyPaint\\Form1.cs",
+              "RelativeDocumentMoniker": "MyPaint\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\MyPaint\\Form1.cs [Design]",
+              "RelativeToolTip": "MyPaint\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T12:06:39.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "FrmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\MDIDemo\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "MDIDemo\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\MDIDemo\\FrmLogin.cs [Design]",
+              "RelativeToolTip": "MDIDemo\\FrmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T13:05:10.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "FrmMain.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\MDIDemo\\FrmMain.cs",
+              "RelativeDocumentMoniker": "MDIDemo\\FrmMain.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\MDIDemo\\FrmMain.cs",
+              "RelativeToolTip": "MDIDemo\\FrmMain.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwBQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T13:05:10.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\GDIDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "GDIDemo\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\GDIDemo\\Form1.cs",
+              "RelativeToolTip": "GDIDemo\\Form1.cs",
+              "ViewState": "AQIAAAkAAABAVVVFZzstwBoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T13:05:10.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "FrmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\MDIDemo\\FrmMain.cs",
+              "RelativeDocumentMoniker": "MDIDemo\\FrmMain.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\MDIDemo\\FrmMain.cs [Design]",
+              "RelativeToolTip": "MDIDemo\\FrmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T13:05:10.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "FrmMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\MDIDemo\\FrmMain.Designer.cs",
+              "RelativeDocumentMoniker": "MDIDemo\\FrmMain.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\MDIDemo\\FrmMain.Designer.cs",
+              "RelativeToolTip": "MDIDemo\\FrmMain.Designer.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAhwEsAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T13:05:10.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "FrmSetting.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\MDIDemo\\FrmSetting.cs",
+              "RelativeDocumentMoniker": "MDIDemo\\FrmSetting.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\MDIDemo\\FrmSetting.cs [Design]",
+              "RelativeToolTip": "MDIDemo\\FrmSetting.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T13:05:10.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\testcontrol\\Form1.cs",
+              "RelativeDocumentMoniker": "testcontrol\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\testcontrol\\Form1.cs",
+              "RelativeToolTip": "testcontrol\\Form1.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAMwBEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T06:58:05.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "MyClock1.resx",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\MyUserControl2\\MyClock1.resx",
+              "RelativeDocumentMoniker": "MyUserControl2\\MyClock1.resx",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\MyUserControl2\\MyClock1.resx",
+              "RelativeToolTip": "MyUserControl2\\MyClock1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-03T13:05:10.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "PurchaseSuccessForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Cinema\\PurchaseSuccessForm.cs",
+              "RelativeDocumentMoniker": "Cinema\\PurchaseSuccessForm.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Cinema\\PurchaseSuccessForm.cs [Design]",
+              "RelativeToolTip": "Cinema\\PurchaseSuccessForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T13:05:10.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\MyUserControl2\\Form1.cs",
+              "RelativeDocumentMoniker": "MyUserControl2\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\MyUserControl2\\Form1.cs [Design]",
+              "RelativeToolTip": "MyUserControl2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T13:05:10.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "MyClock1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\MyUserControl2\\MyClock1.cs",
+              "RelativeDocumentMoniker": "MyUserControl2\\MyClock1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\MyUserControl2\\MyClock1.cs",
+              "RelativeToolTip": "MyUserControl2\\MyClock1.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T13:05:10.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "MyClock1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\MyUserControl2\\MyClock1.Designer.cs",
+              "RelativeDocumentMoniker": "MyUserControl2\\MyClock1.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\MyUserControl2\\MyClock1.Designer.cs",
+              "RelativeToolTip": "MyUserControl2\\MyClock1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T13:05:10.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "MyUserControl2.csproj",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\MyUserControl2\\MyUserControl2.csproj",
+              "RelativeDocumentMoniker": "MyUserControl2\\MyUserControl2.csproj",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\MyUserControl2\\MyUserControl2.csproj",
+              "RelativeToolTip": "MyUserControl2\\MyUserControl2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-03T13:05:10.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\testcontrol\\App.config",
+              "RelativeDocumentMoniker": "testcontrol\\App.config",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\testcontrol\\App.config",
+              "RelativeToolTip": "testcontrol\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-22T04:51:48.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "MyClock1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\MyUserControl2\\MyClock1.cs",
+              "RelativeDocumentMoniker": "MyUserControl2\\MyClock1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\MyUserControl2\\MyClock1.cs [Design]",
+              "RelativeToolTip": "MyUserControl2\\MyClock1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T13:05:10.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "MyClock.resx",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\MyUserControl\\MyClock.resx",
+              "RelativeDocumentMoniker": "MyUserControl\\MyClock.resx",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\MyUserControl\\MyClock.resx",
+              "RelativeToolTip": "MyUserControl\\MyClock.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-03T13:05:10.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "MyClock.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\MyUserControl\\MyClock.cs",
+              "RelativeDocumentMoniker": "MyUserControl\\MyClock.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\MyUserControl\\MyClock.cs",
+              "RelativeToolTip": "MyUserControl\\MyClock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T13:05:10.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "MyClock.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\MyUserControl\\MyClock.cs",
+              "RelativeDocumentMoniker": "MyUserControl\\MyClock.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\MyUserControl\\MyClock.cs [Design]",
+              "RelativeToolTip": "MyUserControl\\MyClock.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T13:05:10.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "MyClock.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\MyUserControl\\MyClock.Designer.cs",
+              "RelativeDocumentMoniker": "MyUserControl\\MyClock.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\MyUserControl\\MyClock.Designer.cs",
+              "RelativeToolTip": "MyUserControl\\MyClock.Designer.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAArwFUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T13:05:10.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\Cinema\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Cinema\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\Cinema\\Form1.Designer.cs",
+              "RelativeToolTip": "Cinema\\Form1.Designer.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T13:05:10.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Cinema\\DongHoRun\\Form1.cs",
+              "RelativeDocumentMoniker": "DongHoRun\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Cinema\\DongHoRun\\Form1.cs [Design]",
+              "RelativeToolTip": "DongHoRun\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T02:48:43.885Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1524,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

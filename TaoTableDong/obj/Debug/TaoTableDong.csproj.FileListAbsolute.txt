@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\Cinema\TaoTableDong\bin\Debug\TaoTableDong.exe.config
+C:\Users\admin\source\repos\Cinema\TaoTableDong\bin\Debug\TaoTableDong.exe
+C:\Users\admin\source\repos\Cinema\TaoTableDong\bin\Debug\TaoTableDong.pdb
+C:\Users\admin\source\repos\Cinema\TaoTableDong\obj\Debug\TaoTableDong.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Cinema\TaoTableDong\obj\Debug\TaoTableDong.Form1.resources
+C:\Users\admin\source\repos\Cinema\TaoTableDong\obj\Debug\TaoTableDong.Properties.Resources.resources
+C:\Users\admin\source\repos\Cinema\TaoTableDong\obj\Debug\TaoTableDong.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Cinema\TaoTableDong\obj\Debug\TaoTableDong.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Cinema\TaoTableDong\obj\Debug\TaoTableDong.exe
+C:\Users\admin\source\repos\Cinema\TaoTableDong\obj\Debug\TaoTableDong.pdb

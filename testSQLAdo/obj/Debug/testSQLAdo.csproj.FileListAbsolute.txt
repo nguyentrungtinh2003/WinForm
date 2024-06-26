@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\Cinema\testSQLAdo\bin\Debug\testSQLAdo.exe.config
+C:\Users\admin\source\repos\Cinema\testSQLAdo\bin\Debug\testSQLAdo.exe
+C:\Users\admin\source\repos\Cinema\testSQLAdo\bin\Debug\testSQLAdo.pdb
+C:\Users\admin\source\repos\Cinema\testSQLAdo\obj\Debug\testSQLAdo.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Cinema\testSQLAdo\obj\Debug\testSQLAdo.Form1.resources
+C:\Users\admin\source\repos\Cinema\testSQLAdo\obj\Debug\testSQLAdo.Properties.Resources.resources
+C:\Users\admin\source\repos\Cinema\testSQLAdo\obj\Debug\testSQLAdo.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Cinema\testSQLAdo\obj\Debug\testSQLAdo.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Cinema\testSQLAdo\obj\Debug\testSQLAdo.exe
+C:\Users\admin\source\repos\Cinema\testSQLAdo\obj\Debug\testSQLAdo.pdb

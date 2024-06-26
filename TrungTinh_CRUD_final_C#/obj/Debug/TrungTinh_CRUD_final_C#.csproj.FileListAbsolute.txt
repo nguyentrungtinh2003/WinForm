@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\Cinema\TrungTinh_CRUD_final_C#\bin\Debug\TrungTinh_CRUD_final_C#.exe.config
+C:\Users\admin\source\repos\Cinema\TrungTinh_CRUD_final_C#\bin\Debug\TrungTinh_CRUD_final_C#.exe
+C:\Users\admin\source\repos\Cinema\TrungTinh_CRUD_final_C#\bin\Debug\TrungTinh_CRUD_final_C#.pdb
+C:\Users\admin\source\repos\Cinema\TrungTinh_CRUD_final_C#\bin\Debug\Guna.UI2.dll
+C:\Users\admin\source\repos\Cinema\TrungTinh_CRUD_final_C#\obj\Debug\TrungTinh_CRUD_final_C#.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Cinema\TrungTinh_CRUD_final_C#\obj\Debug\TrungTinh_CRUD_final_C_.Form1.resources
+C:\Users\admin\source\repos\Cinema\TrungTinh_CRUD_final_C#\obj\Debug\TrungTinh_CRUD_final_C_.Properties.Resources.resources
+C:\Users\admin\source\repos\Cinema\TrungTinh_CRUD_final_C#\obj\Debug\TrungTinh_CRUD_final_C#.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Cinema\TrungTinh_CRUD_final_C#\obj\Debug\TrungTinh_CRUD_final_C#.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Cinema\TrungTinh_CRUD_final_C#\obj\Debug\TrungTin.D56C1477.Up2Date
+C:\Users\admin\source\repos\Cinema\TrungTinh_CRUD_final_C#\obj\Debug\TrungTinh_CRUD_final_C#.exe
+C:\Users\admin\source\repos\Cinema\TrungTinh_CRUD_final_C#\obj\Debug\TrungTinh_CRUD_final_C#.pdb

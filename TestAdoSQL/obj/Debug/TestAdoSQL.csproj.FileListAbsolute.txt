@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\Cinema\TestAdoSQL\bin\Debug\TestAdoSQL.exe.config
+C:\Users\admin\source\repos\Cinema\TestAdoSQL\bin\Debug\TestAdoSQL.exe
+C:\Users\admin\source\repos\Cinema\TestAdoSQL\bin\Debug\TestAdoSQL.pdb
+C:\Users\admin\source\repos\Cinema\TestAdoSQL\obj\Debug\TestAdoSQL.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Cinema\TestAdoSQL\obj\Debug\TestAdoSQL.FrmMain.resources
+C:\Users\admin\source\repos\Cinema\TestAdoSQL\obj\Debug\TestAdoSQL.FrmLogin.resources
+C:\Users\admin\source\repos\Cinema\TestAdoSQL\obj\Debug\TestAdoSQL.FrmManaStu.resources
+C:\Users\admin\source\repos\Cinema\TestAdoSQL\obj\Debug\TestAdoSQL.Properties.Resources.resources
+C:\Users\admin\source\repos\Cinema\TestAdoSQL\obj\Debug\TestAdoSQL.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Cinema\TestAdoSQL\obj\Debug\TestAdoSQL.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Cinema\TestAdoSQL\obj\Debug\TestAdoSQL.exe
+C:\Users\admin\source\repos\Cinema\TestAdoSQL\obj\Debug\TestAdoSQL.pdb

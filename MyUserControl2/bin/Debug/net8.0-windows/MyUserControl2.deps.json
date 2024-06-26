@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MyUserControl2/1.0.0": {
+        "dependencies": {
+          "testcontrol": "1.0.0"
+        },
+        "runtime": {
+          "MyUserControl2.dll": {}
+        }
+      },
+      "testcontrol/1.0.0": {
+        "runtime": {
+          "testcontrol.exe": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyUserControl2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "testcontrol/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

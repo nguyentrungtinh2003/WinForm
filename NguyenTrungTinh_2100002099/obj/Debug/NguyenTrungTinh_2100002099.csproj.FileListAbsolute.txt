@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\Cinema\NguyenTrungTinh_2100002099\bin\Debug\NguyenTrungTinh_2100002099.exe.config
+C:\Users\admin\source\repos\Cinema\NguyenTrungTinh_2100002099\bin\Debug\NguyenTrungTinh_2100002099.exe
+C:\Users\admin\source\repos\Cinema\NguyenTrungTinh_2100002099\bin\Debug\NguyenTrungTinh_2100002099.pdb
+C:\Users\admin\source\repos\Cinema\NguyenTrungTinh_2100002099\obj\Debug\NguyenTrungTinh_2100002099.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Cinema\NguyenTrungTinh_2100002099\obj\Debug\NguyenTrungTinh_2100002099.frmMain.resources
+C:\Users\admin\source\repos\Cinema\NguyenTrungTinh_2100002099\obj\Debug\NguyenTrungTinh_2100002099.frmAbout.resources
+C:\Users\admin\source\repos\Cinema\NguyenTrungTinh_2100002099\obj\Debug\NguyenTrungTinh_2100002099.frmTinhTong.resources
+C:\Users\admin\source\repos\Cinema\NguyenTrungTinh_2100002099\obj\Debug\NguyenTrungTinh_2100002099.Properties.Resources.resources
+C:\Users\admin\source\repos\Cinema\NguyenTrungTinh_2100002099\obj\Debug\NguyenTrungTinh_2100002099.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Cinema\NguyenTrungTinh_2100002099\obj\Debug\NguyenTrungTinh_2100002099.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Cinema\NguyenTrungTinh_2100002099\obj\Debug\NguyenTrungTinh_2100002099.exe
+C:\Users\admin\source\repos\Cinema\NguyenTrungTinh_2100002099\obj\Debug\NguyenTrungTinh_2100002099.pdb

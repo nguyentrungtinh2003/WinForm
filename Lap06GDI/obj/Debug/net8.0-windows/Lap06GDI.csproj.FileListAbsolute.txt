@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\Cinema\Lap06GDI\bin\Debug\net8.0-windows\Lap06GDI.exe
+C:\Users\admin\source\repos\Cinema\Lap06GDI\bin\Debug\net8.0-windows\Lap06GDI.deps.json
+C:\Users\admin\source\repos\Cinema\Lap06GDI\bin\Debug\net8.0-windows\Lap06GDI.runtimeconfig.json
+C:\Users\admin\source\repos\Cinema\Lap06GDI\bin\Debug\net8.0-windows\Lap06GDI.dll
+C:\Users\admin\source\repos\Cinema\Lap06GDI\bin\Debug\net8.0-windows\Lap06GDI.pdb
+C:\Users\admin\source\repos\Cinema\Lap06GDI\obj\Debug\net8.0-windows\Lap06GDI.Form1.resources
+C:\Users\admin\source\repos\Cinema\Lap06GDI\obj\Debug\net8.0-windows\Lap06GDI.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Cinema\Lap06GDI\obj\Debug\net8.0-windows\Lap06GDI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Cinema\Lap06GDI\obj\Debug\net8.0-windows\Lap06GDI.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Cinema\Lap06GDI\obj\Debug\net8.0-windows\Lap06GDI.AssemblyInfo.cs
+C:\Users\admin\source\repos\Cinema\Lap06GDI\obj\Debug\net8.0-windows\Lap06GDI.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Cinema\Lap06GDI\obj\Debug\net8.0-windows\Lap06GDI.dll
+C:\Users\admin\source\repos\Cinema\Lap06GDI\obj\Debug\net8.0-windows\refint\Lap06GDI.dll
+C:\Users\admin\source\repos\Cinema\Lap06GDI\obj\Debug\net8.0-windows\Lap06GDI.pdb
+C:\Users\admin\source\repos\Cinema\Lap06GDI\obj\Debug\net8.0-windows\Lap06GDI.genruntimeconfig.cache
+C:\Users\admin\source\repos\Cinema\Lap06GDI\obj\Debug\net8.0-windows\ref\Lap06GDI.dll

@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\Cinema\DongHoRun\bin\Debug\DongHoRun.exe.config
+C:\Users\admin\source\repos\Cinema\DongHoRun\bin\Debug\DongHoRun.exe
+C:\Users\admin\source\repos\Cinema\DongHoRun\bin\Debug\DongHoRun.pdb
+C:\Users\admin\source\repos\Cinema\DongHoRun\obj\Debug\DongHoRun.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Cinema\DongHoRun\obj\Debug\DongHoRun.Form1.resources
+C:\Users\admin\source\repos\Cinema\DongHoRun\obj\Debug\DongHoRun.Properties.Resources.resources
+C:\Users\admin\source\repos\Cinema\DongHoRun\obj\Debug\DongHoRun.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Cinema\DongHoRun\obj\Debug\DongHoRun.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Cinema\DongHoRun\obj\Debug\DongHoRun.exe
+C:\Users\admin\source\repos\Cinema\DongHoRun\obj\Debug\DongHoRun.pdb

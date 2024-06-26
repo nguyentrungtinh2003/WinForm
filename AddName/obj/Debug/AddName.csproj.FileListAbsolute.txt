@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\Cinema\AddName\bin\Debug\AddName.exe.config
+C:\Users\admin\source\repos\Cinema\AddName\bin\Debug\AddName.exe
+C:\Users\admin\source\repos\Cinema\AddName\bin\Debug\AddName.pdb
+C:\Users\admin\source\repos\Cinema\AddName\obj\Debug\AddName.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Cinema\AddName\obj\Debug\AddName.Form1.resources
+C:\Users\admin\source\repos\Cinema\AddName\obj\Debug\AddName.Properties.Resources.resources
+C:\Users\admin\source\repos\Cinema\AddName\obj\Debug\AddName.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Cinema\AddName\obj\Debug\AddName.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Cinema\AddName\obj\Debug\AddName.exe
+C:\Users\admin\source\repos\Cinema\AddName\obj\Debug\AddName.pdb

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DataClasses1">
+  <DataContextMoniker Name="/DataClasses1DataContext" />
+  <nestedChildShapes>
+    <classShape Id="9345c359-c816-4c9d-8012-7c678cb9f129" absoluteBounds="3.5, 1, 2, 1.3862939453125003">
+      <DataClassMoniker Name="/DataClasses1DataContext/CTHoaDon" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0308f1d9-4493-4f28-ad36-26b742ed2ca2" absoluteBounds="3.515, 1.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="08c3386c-a8f7-4cb6-b1d2-015a0297fa65" absoluteBounds="0.75, 0.875, 2, 1.5785953776041663">
+      <DataClassMoniker Name="/DataClasses1DataContext/HangHoa" />
+      <nestedChildShapes>
+        <elementListCompartment Id="61bde8eb-e3df-4ee5-8506-f754b084d6e4" absoluteBounds="0.765, 1.335, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="64491bf3-26d2-474f-a554-77faee95b7e9" absoluteBounds="0.75, 3.875, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/DataClasses1DataContext/HoaDon" />
+      <nestedChildShapes>
+        <elementListCompartment Id="33b3e6e2-0d38-41c1-8213-097255243870" absoluteBounds="0.765, 4.335, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 1.69314697265625); (3.5 : 1.69314697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/HangHoa/HangHoa_CTHoaDon" />
+      <nodes>
+        <classShapeMoniker Id="08c3386c-a8f7-4cb6-b1d2-015a0297fa65" />
+        <classShapeMoniker Id="9345c359-c816-4c9d-8012-7c678cb9f129" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 4.66429768880208); (4.5 : 4.66429768880208); (4.5 : 2.3862939453125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/HoaDon/HoaDon_CTHoaDon" />
+      <nodes>
+        <classShapeMoniker Id="64491bf3-26d2-474f-a554-77faee95b7e9" />
+        <classShapeMoniker Id="9345c359-c816-4c9d-8012-7c678cb9f129" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

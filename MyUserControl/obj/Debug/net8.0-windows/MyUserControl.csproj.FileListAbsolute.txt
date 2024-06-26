@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\Cinema\MyUserControl\obj\Debug\net8.0-windows\MyUserControl.MyClock.resources
+C:\Users\admin\source\repos\Cinema\MyUserControl\obj\Debug\net8.0-windows\MyUserControl.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Cinema\MyUserControl\obj\Debug\net8.0-windows\MyUserControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Cinema\MyUserControl\obj\Debug\net8.0-windows\MyUserControl.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Cinema\MyUserControl\obj\Debug\net8.0-windows\MyUserControl.AssemblyInfo.cs
+C:\Users\admin\source\repos\Cinema\MyUserControl\obj\Debug\net8.0-windows\MyUserControl.csproj.CoreCompileInputs.cache

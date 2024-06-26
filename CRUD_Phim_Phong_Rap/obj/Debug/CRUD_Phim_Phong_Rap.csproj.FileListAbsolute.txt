@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\Cinema\CRUD_Phim_Phong_Rap\bin\Debug\CRUD_Phim_Phong_Rap.exe.config
+C:\Users\admin\source\repos\Cinema\CRUD_Phim_Phong_Rap\bin\Debug\CRUD_Phim_Phong_Rap.exe
+C:\Users\admin\source\repos\Cinema\CRUD_Phim_Phong_Rap\bin\Debug\CRUD_Phim_Phong_Rap.pdb
+C:\Users\admin\source\repos\Cinema\CRUD_Phim_Phong_Rap\obj\Debug\CRUD_Phim_Phong_Rap.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Cinema\CRUD_Phim_Phong_Rap\obj\Debug\CRUD_Phim_Phong_Rap.Form1.resources
+C:\Users\admin\source\repos\Cinema\CRUD_Phim_Phong_Rap\obj\Debug\CRUD_Phim_Phong_Rap.Properties.Resources.resources
+C:\Users\admin\source\repos\Cinema\CRUD_Phim_Phong_Rap\obj\Debug\CRUD_Phim_Phong_Rap.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Cinema\CRUD_Phim_Phong_Rap\obj\Debug\CRUD_Phim_Phong_Rap.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Cinema\CRUD_Phim_Phong_Rap\obj\Debug\CRUD_Phim_Phong_Rap.exe
+C:\Users\admin\source\repos\Cinema\CRUD_Phim_Phong_Rap\obj\Debug\CRUD_Phim_Phong_Rap.pdb

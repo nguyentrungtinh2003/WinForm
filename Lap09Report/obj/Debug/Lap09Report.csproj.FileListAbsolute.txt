@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\Cinema\Lap09Report\bin\Debug\Lap09Report.exe.config
+C:\Users\admin\source\repos\Cinema\Lap09Report\bin\Debug\Lap09Report.exe
+C:\Users\admin\source\repos\Cinema\Lap09Report\bin\Debug\Lap09Report.pdb
+C:\Users\admin\source\repos\Cinema\Lap09Report\obj\Debug\Lap09Report.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Cinema\Lap09Report\obj\Debug\Lap09Report.Form1.resources
+C:\Users\admin\source\repos\Cinema\Lap09Report\obj\Debug\Lap09Report.Properties.Resources.resources
+C:\Users\admin\source\repos\Cinema\Lap09Report\obj\Debug\Lap09Report.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Cinema\Lap09Report\obj\Debug\Lap09Report.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Cinema\Lap09Report\obj\Debug\Lap09Report.exe
+C:\Users\admin\source\repos\Cinema\Lap09Report\obj\Debug\Lap09Report.pdb

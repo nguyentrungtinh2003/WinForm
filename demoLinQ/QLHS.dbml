@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="HocSinhScript" Class="QLHSDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-RAAS25V;Initial Catalog=HocSinhScript;Integrated Security=True;Trust Server Certificate=True" SettingsObjectName="demoLinQ.Properties.Settings" SettingsPropertyName="HocSinhScriptConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.HocSinh" Member="HocSinhs">
+    <Type Name="HocSinh">
+      <Column Name="MaHS" Type="System.String" DbType="VarChar(20) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenHS" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="NgaySinh" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="DiaChi" Type="System.String" DbType="NVarChar(150)" CanBeNull="true" />
+      <Column Name="DTB" Type="System.Single" DbType="Real" CanBeNull="true" />
+      <Column Name="MaLop" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Association Name="Lop_HocSinh" Member="Lop" ThisKey="MaLop" OtherKey="MaLop" Type="Lop" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Lop" Member="Lops">
+    <Type Name="Lop">
+      <Column Name="MaLop" Type="System.String" DbType="VarChar(20) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenLop" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="SiSo" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Association Name="Lop_HocSinh" Member="HocSinhs" ThisKey="MaLop" OtherKey="MaLop" Type="HocSinh" />
+    </Type>
+  </Table>
+  <Function Name="dbo.spThem" Method="spThem">
+    <Parameter Name="Ma" Parameter="ma" Type="System.String" DbType="VarChar(20)" />
+    <Parameter Name="Ten" Parameter="ten" Type="System.String" DbType="NVarChar(100)" />
+    <Parameter Name="SiSo" Parameter="siSo" Type="System.Int16" DbType="SmallInt" />
+    <Return Type="System.Int32" />
+  </Function>
+</Database>

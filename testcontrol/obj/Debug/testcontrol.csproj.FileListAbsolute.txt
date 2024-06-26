@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\Cinema\testcontrol\bin\Debug\testcontrol.exe.config
+C:\Users\admin\source\repos\Cinema\testcontrol\bin\Debug\testcontrol.exe
+C:\Users\admin\source\repos\Cinema\testcontrol\bin\Debug\testcontrol.pdb
+C:\Users\admin\source\repos\Cinema\testcontrol\obj\Debug\testcontrol.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Cinema\testcontrol\obj\Debug\testcontrol.Properties.Resources.resources
+C:\Users\admin\source\repos\Cinema\testcontrol\obj\Debug\testcontrol.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Cinema\testcontrol\obj\Debug\testcontrol.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Cinema\testcontrol\obj\Debug\testcontrol.exe
+C:\Users\admin\source\repos\Cinema\testcontrol\obj\Debug\testcontrol.pdb
+C:\Users\admin\source\repos\Cinema\testcontrol\obj\Debug\testcontrol.Form1.resources
+C:\Users\admin\source\repos\Cinema\testcontrol\bin\Debug\UcDongHo.dll
+C:\Users\admin\source\repos\Cinema\testcontrol\bin\Debug\UcDongHo.pdb
+C:\Users\admin\source\repos\Cinema\testcontrol\obj\Debug\testcont.ECA03AD5.Up2Date

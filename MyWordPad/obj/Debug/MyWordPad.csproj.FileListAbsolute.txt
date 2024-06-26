@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\Cinema\MyWordPad\bin\Debug\MyWordPad.exe.config
+C:\Users\admin\source\repos\Cinema\MyWordPad\bin\Debug\MyWordPad.exe
+C:\Users\admin\source\repos\Cinema\MyWordPad\bin\Debug\MyWordPad.pdb
+C:\Users\admin\source\repos\Cinema\MyWordPad\obj\Debug\MyWordPad.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Cinema\MyWordPad\obj\Debug\MyWordPad.Form1.resources
+C:\Users\admin\source\repos\Cinema\MyWordPad\obj\Debug\MyWordPad.Properties.Resources.resources
+C:\Users\admin\source\repos\Cinema\MyWordPad\obj\Debug\MyWordPad.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Cinema\MyWordPad\obj\Debug\MyWordPad.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Cinema\MyWordPad\obj\Debug\MyWordPad.exe
+C:\Users\admin\source\repos\Cinema\MyWordPad\obj\Debug\MyWordPad.pdb

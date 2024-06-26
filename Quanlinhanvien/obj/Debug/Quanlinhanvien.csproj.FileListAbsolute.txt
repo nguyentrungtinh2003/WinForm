@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\Cinema\Quanlinhanvien\bin\Debug\Quanlinhanvien.exe.config
+C:\Users\admin\source\repos\Cinema\Quanlinhanvien\bin\Debug\Quanlinhanvien.exe
+C:\Users\admin\source\repos\Cinema\Quanlinhanvien\bin\Debug\Quanlinhanvien.pdb
+C:\Users\admin\source\repos\Cinema\Quanlinhanvien\obj\Debug\Quanlinhanvien.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Cinema\Quanlinhanvien\obj\Debug\Quanlinhanvien.Form1.resources
+C:\Users\admin\source\repos\Cinema\Quanlinhanvien\obj\Debug\Quanlinhanvien.Properties.Resources.resources
+C:\Users\admin\source\repos\Cinema\Quanlinhanvien\obj\Debug\Quanlinhanvien.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Cinema\Quanlinhanvien\obj\Debug\Quanlinhanvien.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Cinema\Quanlinhanvien\obj\Debug\Quanlinhanvien.exe
+C:\Users\admin\source\repos\Cinema\Quanlinhanvien\obj\Debug\Quanlinhanvien.pdb

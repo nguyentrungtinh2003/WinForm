@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\Cinema\BaiSQLHocSinh\obj\Debug\BaiSQLHocSinh.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Cinema\BaiSQLHocSinh\obj\Debug\BaiSQLHocSinh.Form1.resources
+C:\Users\admin\source\repos\Cinema\BaiSQLHocSinh\obj\Debug\BaiSQLHocSinh.Properties.Resources.resources
+C:\Users\admin\source\repos\Cinema\BaiSQLHocSinh\obj\Debug\BaiSQLHocSinh.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Cinema\BaiSQLHocSinh\obj\Debug\BaiSQLHocSinh.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Cinema\BaiSQLHocSinh\bin\Debug\BaiSQLHocSinh.exe.config
+C:\Users\admin\source\repos\Cinema\BaiSQLHocSinh\bin\Debug\BaiSQLHocSinh.exe
+C:\Users\admin\source\repos\Cinema\BaiSQLHocSinh\bin\Debug\BaiSQLHocSinh.pdb
+C:\Users\admin\source\repos\Cinema\BaiSQLHocSinh\obj\Debug\BaiSQLHocSinh.exe
+C:\Users\admin\source\repos\Cinema\BaiSQLHocSinh\obj\Debug\BaiSQLHocSinh.pdb

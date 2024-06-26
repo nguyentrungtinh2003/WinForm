@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\Cinema\TestTry\bin\Debug\TestTry.exe.config
+C:\Users\admin\source\repos\Cinema\TestTry\bin\Debug\TestTry.exe
+C:\Users\admin\source\repos\Cinema\TestTry\bin\Debug\TestTry.pdb
+C:\Users\admin\source\repos\Cinema\TestTry\obj\Debug\TestTry.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Cinema\TestTry\obj\Debug\TestTry.frmAbout.resources
+C:\Users\admin\source\repos\Cinema\TestTry\obj\Debug\TestTry.Properties.Resources.resources
+C:\Users\admin\source\repos\Cinema\TestTry\obj\Debug\TestTry.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Cinema\TestTry\obj\Debug\TestTry.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Cinema\TestTry\obj\Debug\TestTry.exe
+C:\Users\admin\source\repos\Cinema\TestTry\obj\Debug\TestTry.pdb
+C:\Users\admin\source\repos\Cinema\TestTry\obj\Debug\TestTry.frmMain.resources
